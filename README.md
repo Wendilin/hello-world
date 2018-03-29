@@ -1,2 +1,3 @@
 # hello-world
-For drafting purproses
+
+My name is Wendy. This is for drafting purposes.
